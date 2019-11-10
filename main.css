@@ -1,1 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 
+ul{
+    list-style-type: none;
+}
+
+li{
+    display: inline-block;
+}
+
+#g-nav-bar-main{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#g-nav-bar-right{
+    display: inline-block;
+    position: fixed;
+    right: 40px;
+}
+
+.g-seperator-nav-items{
+    margin-left: 16px;
+}
